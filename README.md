@@ -16,6 +16,9 @@
   Programming has always been my passion! I have been doing it for years and I enjoy what I do. My best languages are Python ,React , Javascript and I also learn UI/UX Design. However, I can excel in all the languages I provided. I am a fast learner and I believe that any project always needs a lot of testing before it goes through the acceptance testing, since that is what makes projects successful. I am very friendly, and my motto is not to think outside the box but build a bigger box!.
 </p>
 
+<h1 align='center'>
+  <a href="https://project.ishreyash.com/">Projects</a>
+</h1>
  
 
 ## Top Technologies
