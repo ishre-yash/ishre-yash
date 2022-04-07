@@ -17,9 +17,9 @@
 </p>
 
 <h1 align='center'>
-  <a href="https://project.ishreyash.com/">Projects</a>
+  <a href="https://ishre-yash.github.io/">PORTFOLIO</a>
+  <a href="https://project.ishreyash.com/">PROJECTS</a> 
 </h1>
- 
 
 ## Top Technologies
 [![Python Badge](https://img.shields.io/badge/-Python-FFE873?style=for-the-badge&labelColor=black&logo=python&logoColor=FFE873)](#) 
