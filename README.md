@@ -1,4 +1,4 @@
-<a href="https://project.ishreyash.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="nodejs" width="1000vh"/></a>
+<img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="nodejs" width="1000vh"/>
 <br>
 <br>
 <p align='center'>
