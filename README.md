@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="nodejs" width="1000vh"/>
-<br>
+<img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="nodejs" width="100%"/>
 <br>
 <p align='center'>
   <a href="https://twitter.com/ishre_yash"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
@@ -21,6 +20,8 @@
   <a href="https://project.ishreyash.com/">PROJECTS</a> 
 </h1>
 
+
+
 ## Top Technologies
 [![Python Badge](https://img.shields.io/badge/-Python-FFE873?style=for-the-badge&labelColor=black&logo=python&logoColor=FFE873)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
@@ -31,10 +32,12 @@
 ![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
 ![ishre-yash Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishre-yash&theme=github_dark&hide_border=true)
 
-## Skills
+
+<div align="center">
+  ## Skills
 
 ### Programming Languages
-
+  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -50,3 +53,4 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+</div>
