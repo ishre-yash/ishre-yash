@@ -26,8 +26,7 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=radical)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishre-yash&theme=radical)
 
