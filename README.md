@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="nodejs" width="100%"/>
 <br>
 <p align='center'>
@@ -10,31 +11,14 @@
 <p align='center'>
 <a href="https://ko-fi.com/L3L8BAUOT"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>                
 </p>
-
-<p align='center'>
-  Programming has always been my passion! I have been doing it for years and I enjoy what I do. My best languages are Python ,React , Javascript and I also learn UI/UX Design. However, I can excel in all the languages I provided. I am a fast learner and I believe that any project always needs a lot of testing before it goes through the acceptance testing, since that is what makes projects successful. I am very friendly, and my motto is not to think outside the box but build a bigger box!.
-</p>
-
-<h1 align='center'>
-  <a href="https://ishre-yash.github.io/">PORTFOLIO</a>
-  <a href="https://project.ishreyash.com/">PROJECTS</a> 
+<h1>
+<a href="https://ishre-yash.github.io/">PORTFOLIO</a>
+<a href="https://project.ishreyash.com/">PROJECTS</a> 
 </h1>
-
-
-
-## Top Technologies
-[![Python Badge](https://img.shields.io/badge/-Python-FFE873?style=for-the-badge&labelColor=black&logo=python&logoColor=FFE873)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-<br>
+  
 [![ishre-yash GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![ishre-yash GitHub stats](https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true)
 ![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
-![ishre-yash Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishre-yash&theme=github_dark&hide_border=true)
-
-
-<div align="center">
-  ## Skills
 
 ### Programming Languages
   
