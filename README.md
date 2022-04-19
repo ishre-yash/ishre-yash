@@ -1,16 +1,14 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="nodejs" width="100%"/>
 <br>
-<p align='center'>
+<div>
   <a href="https://twitter.com/ishre_yash"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ishre-yash"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/linkedin.png"/></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/ishreyash/"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/leetcode.png"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/ishre_yash/"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/instagram.png"/></a>&nbsp;&nbsp;
   <a href="mailto:iamshreyash.in@gmail.com"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/gmail.png"/></a>&nbsp;&nbsp;                      
-</p>
-<p align='center'>
+</div>
 <a href="https://ko-fi.com/L3L8BAUOT"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>                
-</p>
 <h1>
 <a href="https://ishre-yash.github.io/">PORTFOLIO</a>
 <a href="https://project.ishreyash.com/">PROJECTS</a> 
