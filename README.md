@@ -2,11 +2,11 @@
 <img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="nodejs" width="100%"/>
 <br>
 <div>
-  <a href="https://twitter.com/ishre_yash"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ishre-yash"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/linkedin.png"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/ishreyash/"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/leetcode.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ishre_yash/"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/instagram.png"/></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/ishreyash"> <img height="50" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1584356/codepen_logo.png"/></a>&nbsp;&nbsp;                      
+  <a href="https://twitter.com/ishre_yash" title="twitter"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ishre-yash" title="linkedin"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/linkedin.png"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/ishreyash/" title="leetcode"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/leetcode.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ishre_yash/" title="instagram"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/instagram.png"/></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/ishreyash" title="codepen"> <img height="50" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1584356/codepen_logo.png"/></a>&nbsp;&nbsp;                      
 </div>
 <a href="https://ko-fi.com/L3L8BAUOT"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>                
 <h1>
