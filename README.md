@@ -1,5 +1,7 @@
 <div align="center">
+  <a href="https://ishre-yash.github.io/" title="portfolio">
 <img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="nodejs" width="100%"/>
+  </a>
 <br>
 <div>
   <a href="https://twitter.com/ishre_yash" title="twitter"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
