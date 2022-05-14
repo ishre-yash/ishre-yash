@@ -38,3 +38,20 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 </div>
+
+## Watch my contribution graph get eaten by the snake 🐍
+
+<p align="center">
+   <img src="https://github.com/ishre-yash/ishre-yash/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+<p align="center">
+    <h2 align="center">Visitors Count</h2>
+    <p align="center">
+      <img src="https://profile-counter.glitch.me/{ishre-yash}/count.svg" alt="VisitorCount">
+    </p>
+</p>
+
+<p align="center">
+   Show some ❤️ by starring some of the repositories!
+</p>
