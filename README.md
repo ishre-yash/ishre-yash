@@ -43,6 +43,12 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 </div>
 
+<details>
+ <summary><b>Summary 👨‍💻</b></summary>
+<br>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</details>
+
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <p align="center">
