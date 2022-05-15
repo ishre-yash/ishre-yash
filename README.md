@@ -11,6 +11,11 @@
   <a href="https://codepen.io/ishreyash" title="codepen"> <img height="50" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1584356/codepen_logo.png"/></a>&nbsp;&nbsp;                      
 </div>
 <a href="https://ko-fi.com/L3L8BAUOT"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>                
+<details>
+ <summary><b>Summary 👨‍💻</b></summary>
+<br>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</details>
 <h1>
 <a href="https://ishre-yash.github.io/">PORTFOLIO</a>
 <a href="https://project.ishreyash.com/">PROJECTS</a> 
@@ -43,11 +48,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 </div>
 
-<details>
- <summary><b>Summary 👨‍💻</b></summary>
-<br>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-</details>
+
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
