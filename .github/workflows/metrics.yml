@@ -37,3 +37,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
