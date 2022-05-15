@@ -14,7 +14,7 @@
 <details>
  <summary><b>Summary 👨‍💻</b></summary>
 <br>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 </details>
 <h1>
 <a href="https://ishre-yash.github.io/">PORTFOLIO</a>
