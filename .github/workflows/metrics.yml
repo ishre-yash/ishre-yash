@@ -36,13 +36,6 @@ jobs:
           plugin_base_indepth: yes
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_trim: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
