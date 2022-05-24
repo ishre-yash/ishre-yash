@@ -1,16 +1,16 @@
 <div align="center">
   <a href="https://ishre-yash.github.io/" title="portfolio">
-<img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="nodejs" width="100%"/>
+<img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="ShreYash" width="100%"/>
   </a>
 <br>
 <div>
-  <a href="https://twitter.com/ishre_yash" title="twitter"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ishre-yash" title="linkedin"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/linkedin.png"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/ishreyash/" title="leetcode"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/leetcode.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ishre_yash/" title="instagram"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/instagram.png"/></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/ishreyash" title="codepen"> <img height="50" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1584356/codepen_logo.png"/></a>&nbsp;&nbsp;                      
+  <a href="https://twitter.com/ishre_yash" title="twitter"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ishre-yash" title="linkedin"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/linkedin.png"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/ishreyash/" title="leetcode"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/leetcode.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ishre_yash/" title="instagram"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/instagram.png"/></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/ishreyash" title="codepen"> <img width="40" height="40" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1584356/codepen_logo.png"/></a>&nbsp;&nbsp;                      
 </div>
-<a href="https://ko-fi.com/L3L8BAUOT"> <img height="50" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>                
+<a href="https://ko-fi.com/L3L8BAUOT"> <img height="25" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>                
 <details>
  <summary><b>Summary 👨‍💻</b></summary>
 <br>
@@ -45,7 +45,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50"/> </a> 
 </div>
 
 
