@@ -18,7 +18,7 @@
 </details>
 <h1>
 <a href="https://ishre-yash.github.io/">PORTFOLIO</a>
-<a href="https://project.ishreyash.com/">PROJECTS</a> 
+<a href="https://ishre-yash.github.io/myProjects/">PROJECTS</a> 
 </h1>
   
 
