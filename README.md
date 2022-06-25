@@ -10,12 +10,9 @@
   <a href="https://www.instagram.com/ishre_yash/" title="instagram"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/instagram.png"/></a>&nbsp;&nbsp;
   <a href="https://codepen.io/ishreyash" title="codepen"> <img width="40" height="40" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1584356/codepen_logo.png"/></a>&nbsp;&nbsp;                      
 </div>
-<a href="https://ko-fi.com/L3L8BAUOT"> <img height="25" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>                
-<details>
- <summary><b>Summary 👨‍💻</b></summary>
-<br>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
-</details>
+<a href="https://ko-fi.com/L3L8BAUOT"> <img height="35" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>                
+
+
 <h1>
 <a href="https://ishre-yash.github.io/">PORTFOLIO</a>
 <a href="https://ishre-yash.github.io/myProjects/">PROJECTS</a> 
@@ -29,6 +26,12 @@
 
 ![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
 
+   
+
+
+  
+  
+  
 ### Programming Languages
   
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -61,13 +64,11 @@
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
   
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-  
-
-
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 </div>
 
 
@@ -81,6 +82,7 @@
 <p align="center">
    <img src="https://github.com/ishre-yash/ishre-yash/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <p align="center">
     <h2 align="center">Visitors Count</h2>
@@ -88,6 +90,7 @@
       <img src="https://profile-counter.glitch.me/{ishre-yash}/count.svg" alt="VisitorCount">
     </p>
 </p>
+
 
 <p align="center">
    Show some ❤️ by starring some of the repositories!
