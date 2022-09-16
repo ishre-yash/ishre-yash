@@ -3,6 +3,9 @@
 <img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="ShreYash" width="100%"/>
   </a>
 <br>
+<h1>
+<a href="https://ishre-yash.github.io/">PORTFOLIO</a>
+</h1>
 <div>
   <a href="https://twitter.com/ishre_yash" title="twitter"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ishre-yash" title="linkedin"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/linkedin.png"/></a>&nbsp;&nbsp;
@@ -13,9 +16,14 @@
 <a href="https://ko-fi.com/L3L8BAUOT"> <img height="35" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>                
 
 
-<h1>
-<a href="https://ishre-yash.github.io/">PORTFOLIO</a>
-</h1>
+
+
+## Tech stack: 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://brandonroberts.dev/assets/posts/astro-logo.jpg" alt="astro" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+
+
   
 
 <p align="center">
@@ -24,8 +32,6 @@
 </p>
 
 ![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
-
-   
 
 
   
@@ -58,7 +64,9 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
   
   ### Apps
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 
 ### Tools
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
