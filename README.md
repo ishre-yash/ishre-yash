@@ -7,15 +7,21 @@
 Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to engage, share, ask questions and collaborate together!
 
 ### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME]()
+
 ---
+
 <div>
-  <a href="https://twitter.com/ishre_yash" title="twitter"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ishre-yash" title="linkedin"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/linkedin.png"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/ishreyash/" title="leetcode"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/leetcode.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ishre_yash/" title="instagram"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/instagram.png"/></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/ishre_yash" title="twitter"> <img width="50" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ishre-yash" title="linkedin"> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/ishreyash/" title="leetcode"> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>&nbsp;&nbsp;
+  <a href="https://g.dev/iamShreYash" title="Google Developers"> <img width="50" height="40" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png"/></a>&nbsp;&nbsp;
   <a href="https://codepen.io/ishreyash" title="codepen"> <img width="40" height="40" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1584356/codepen_logo.png"/></a>&nbsp;&nbsp;                      
 </div>
 <a href="https://ko-fi.com/L3L8BAUOT"> <img height="35" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>
+
+![ishreyash](https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![ishreyash](https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true)
+![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
 
 ## Tech stack:
 
@@ -23,12 +29,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://brandonroberts.dev/assets/posts/astro-logo.jpg" alt="astro" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 
-<p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 
-![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
 
 ### Programming Languages
 
