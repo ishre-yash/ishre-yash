@@ -1,9 +1,8 @@
 <div align="center">
-  <a href="https://ishre-yash.github.io/" title="portfolio">
-<img src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg" alt="ShreYash" width="100%"/>
-  </a>
 
-# [PORTFOLIO](https://ishre-yash.github.io/)
+[![ishreyash](https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg)](https://ishre-yash.github.io/)
+
+## [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME]()
 
 <div>
   <a href="https://twitter.com/ishre_yash" title="twitter"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
