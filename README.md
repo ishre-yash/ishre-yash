@@ -2,8 +2,12 @@
 
 [![ishreyash](https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg)](https://ishre-yash.github.io/)
 
-## [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME]()
+### Hello and welcome :smile:
 
+Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to engage, share, ask questions and collaborate together!
+
+### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME]()
+---
 <div>
   <a href="https://twitter.com/ishre_yash" title="twitter"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/twitter.png"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ishre-yash" title="linkedin"> <img width="40" height="40" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/linkedin.png"/></a>&nbsp;&nbsp;
