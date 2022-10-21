@@ -1,12 +1,23 @@
-<div align="center">
-
-[![ishreyash](https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/logoName.svg)](https://ishre-yash.github.io/)
-
 ### Hello and welcome :smile:
 
 Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to engage, share, ask questions and collaborate together!
 
-### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME]()
+<a href="https://www.instagram.com/ishre_yash/">
+  <img align="left" alt="ishreyash Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/ishre_yash">
+  <img align="left" alt=ishreyash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ishre-yash/">
+  <img align="left" alt="ishreyash Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br/>
+                                                                                                                                                    
+### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view)
 
 ---
 
@@ -78,7 +89,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 
-</div>
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
