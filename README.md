@@ -28,20 +28,29 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ### Technologies
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Next.ja](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
-![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![bash](https://img.shields.io/badge/-bash-000?&logo=gnubash)
+![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![express.js](https://img.shields.io/badge/-express.js-000?&logo=express)
-![flask](https://img.shields.io/badge/-flask-000?&logo=flask)
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&logo=mongodb)
 ![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
+![sqlite](https://img.shields.io/badge/-sqlite-000?&logo=sqlite)
+![redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+![flask](https://img.shields.io/badge/-flask-000?&logo=flask)
 ![android](https://img.shields.io/badge/-android-000?&logo=android)
+![heroku](https://img.shields.io/badge/-heroku-000?&logo=heroku)
+![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
+
+
+
+
+
 
 <div align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
