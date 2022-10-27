@@ -23,9 +23,11 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ---
 
 
-
-![ishreyash](https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![ishreyash](https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true)
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+</div>
+  
 ![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
 
 ## Tech stack:
@@ -83,13 +85,14 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <p align="center">
    <img src="https://github.com/ishre-yash/ishre-yash/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+
 
 <p align="center">
     <h2 align="center">Visitors Count</h2>
