@@ -43,32 +43,25 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![sqlite](https://img.shields.io/badge/-sqlite-000?&logo=sqlite)
 ![redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![flask](https://img.shields.io/badge/-flask-000?&logo=flask)
+![django](https://img.shields.io/badge/-django-000?&logo=django)
 ![android](https://img.shields.io/badge/-android-000?&logo=android)
 ![heroku](https://img.shields.io/badge/-heroku-000?&logo=heroku)
 ![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
+![selenium](https://img.shields.io/badge/-selenium-000?&logo=selenium)
 
-
-
-
-
+### Tools
+![git](https://img.shields.io/badge/-git-000?&logo=git)
+![postman](https://img.shields.io/badge/-postman-000?&logo=postman)
+![figma](https://img.shields.io/badge/-figma-000?&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop)
+![XD](https://img.shields.io/badge/-XD-000?&logo=adobexd)
 
 <div align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
 </div>
-  
+ 
 ![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
-
-
-
-### Tools
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ## Watch my contribution graph get eaten by the snake 🐍
