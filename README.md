@@ -5,30 +5,24 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 <a href="https://www.instagram.com/ishre_yash/">
   <img align="left" alt="ishreyash Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="discordapp.com/users/788614400017694752">
+  <img align="left" alt="ishreyash Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/ishre_yash">
-  <img align="left" alt=ishreyash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="ishreyash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ishre-yash/">
   <img align="left" alt="ishreyash Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> 
+<a  href="https://ko-fi.com/L3L8BAUOT"> <img align="right" height="35" src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png"/></a>
 
 <br/>
                                                                                                                                                     
-### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view)
+### [Portfolio](https://ishre-yash.github.io/) | [Resume](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
 
 ---
 
-<div>
-  <a href="https://twitter.com/ishre_yash" title="twitter"> <img width="50" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ishre-yash" title="linkedin"> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/ishreyash/" title="leetcode"> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>&nbsp;&nbsp;
-  <a href="https://g.dev/iamShreYash" title="Google Developers"> <img width="50" height="40" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png"/></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/ishreyash" title="codepen"> <img width="40" height="40" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1584356/codepen_logo.png"/></a>&nbsp;&nbsp;                      
-</div>
-<a href="https://ko-fi.com/L3L8BAUOT"> <img height="35" src="https://raw.githubusercontent.com/ishre-yash/ishre-yash/main/icons/coffee.png"/></a>
+
 
 ![ishreyash](https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![ishreyash](https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true)
