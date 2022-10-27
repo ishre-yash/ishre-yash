@@ -18,14 +18,14 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 
 <br/>
                                                                                                                                                     
-### [Portfolio](https://ishre-yash.github.io/) | [Resume](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
+### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
 
 ---
 
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<div align="center" >
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
 </div>
   
 ![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
