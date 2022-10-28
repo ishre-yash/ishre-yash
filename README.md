@@ -41,6 +41,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&logo=mongodb)
 ![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
 ![sqlite](https://img.shields.io/badge/-sqlite-000?&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![flask](https://img.shields.io/badge/-flask-000?&logo=flask)
 ![django](https://img.shields.io/badge/-django-000?&logo=django)
