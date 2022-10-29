@@ -13,7 +13,11 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 </a>
 <a href="https://www.linkedin.com/in/ishre-yash/">
   <img align="left" alt="ishreyash Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
+</a>
+<a href="https://leetcode.com/ishreyash/">
+  <img align="left" alt="ishreyash Linkedin" width="22px" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" />
+</a>
+
 <a  href="https://ko-fi.com/L3L8BAUOT"> <img align="right" height="35" src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png"/></a>
 
 <br/>
