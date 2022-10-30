@@ -25,6 +25,11 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
 
 ---
+### Tech stack
+![JAM](https://img.shields.io/badge/-JAM-000?&logo=jamstack)
+![MERN](https://img.shields.io/badge/-MERN-000?&logo=Node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
