@@ -59,6 +59,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![heroku](https://img.shields.io/badge/-heroku-000?&logo=heroku)
 ![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
 ![selenium](https://img.shields.io/badge/-selenium-000?&logo=selenium)
+![django](https://img.shields.io/badge/-django-000?&logo=django)
 
 ### Tools
 ![git](https://img.shields.io/badge/-git-000?&logo=git)
