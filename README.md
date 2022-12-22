@@ -34,8 +34,9 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
 ### Technologies
 ![sass](https://img.shields.io/badge/-sass-000?&logo=sass)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
@@ -60,6 +61,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
 ![selenium](https://img.shields.io/badge/-selenium-000?&logo=selenium)
 ![django](https://img.shields.io/badge/-django-000?&logo=django)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
 ### Tools
 ![git](https://img.shields.io/badge/-git-000?&logo=git)
