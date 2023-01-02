@@ -38,33 +38,39 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
 ### Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![css](https://img.shields.io/badge/-css-000?&logo=css3)
 ![sass](https://img.shields.io/badge/-sass-000?&logo=sass)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
+&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![bash](https://img.shields.io/badge/-bash-000?&logo=gnubash)
 ![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![heroku](https://img.shields.io/badge/-heroku-000?&logo=heroku)
+&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![express.js](https://img.shields.io/badge/-express.js-000?&logo=express)
+![flask](https://img.shields.io/badge/-flask-000?&logo=flask)
+![django](https://img.shields.io/badge/-django-000?&logo=django)
 ![tRPC](https://img.shields.io/badge/-tRPC-000?&logo=trpc)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=graphql)
+![selenium](https://img.shields.io/badge/-selenium-000?&logo=selenium)
+&nbsp;&nbsp;
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&logo=mongodb)
 ![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
 ![sqlite](https://img.shields.io/badge/-sqlite-000?&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
-![flask](https://img.shields.io/badge/-flask-000?&logo=flask)
-![django](https://img.shields.io/badge/-django-000?&logo=django)
+&nbsp;&nbsp;
 ![android](https://img.shields.io/badge/-android-000?&logo=android)
-![heroku](https://img.shields.io/badge/-heroku-000?&logo=heroku)
-![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
-![selenium](https://img.shields.io/badge/-selenium-000?&logo=selenium)
-![django](https://img.shields.io/badge/-django-000?&logo=django)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+
+
 
 
 ### Tools
