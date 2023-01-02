@@ -25,6 +25,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
 
 ---
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ### Tech stack
 ![JAM](https://img.shields.io/badge/-JAM-000?&logo=jamstack)
 ![MERN](https://img.shields.io/badge/-MERN-000?&logo=Node.js)
@@ -49,6 +50,8 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![express.js](https://img.shields.io/badge/-express.js-000?&logo=express)
+![tRPC](https://img.shields.io/badge/-tRPC-000?&logo=trpc)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=graphql)
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&logo=mongodb)
 ![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
 ![sqlite](https://img.shields.io/badge/-sqlite-000?&logo=sqlite)
@@ -63,6 +66,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![django](https://img.shields.io/badge/-django-000?&logo=django)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
+
 ### Tools
 ![git](https://img.shields.io/badge/-git-000?&logo=git)
 ![postman](https://img.shields.io/badge/-postman-000?&logo=postman)
@@ -76,7 +80,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
   <img src="https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
 </div>
  
-![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark)
+<!-- ![ishre-yash GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishre-yash&hide_border=true&theme=react-dark) -->
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ## Watch my contribution graph get eaten by the snake 🐍
