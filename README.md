@@ -25,7 +25,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
 
 ---
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ### Tech stack
 ![JAM](https://img.shields.io/badge/-JAM-000?&logo=jamstack)
 ![MERN](https://img.shields.io/badge/-MERN-000?&logo=Node.js)
