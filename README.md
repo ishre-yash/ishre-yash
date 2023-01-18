@@ -29,6 +29,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![JAM](https://img.shields.io/badge/-JAM-000?&logo=jamstack)
 ![MERN](https://img.shields.io/badge/-MERN-000?&logo=Node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![t3 stack](https://img.shields.io/badge/-t3_stack-000?&logo=t3s)
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
