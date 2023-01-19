@@ -51,7 +51,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![googlecloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=googlecloud)
 &nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![express.js](https://img.shields.io/badge/-express.js-000?&logo=express)
