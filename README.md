@@ -44,7 +44,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
-![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
 &nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![bash](https://img.shields.io/badge/-bash-000?&logo=gnubash)
