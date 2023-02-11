@@ -30,7 +30,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![MERN](https://img.shields.io/badge/-MERN-000?&logo=Node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![t3 stack](https://img.shields.io/badge/-t3_stack-000?&logo=t3s)
-![reactnative](https://img.shields.io/badge/-React_Native-000?&logo=react)
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -63,6 +62,8 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&logo=mongodb)
 ![redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+&nbsp;&nbsp;
+![reactnative](https://img.shields.io/badge/-React_Native-000?&logo=react)
 
 
 
