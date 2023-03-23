@@ -34,6 +34,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![RUST](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
 ### Technologies
 ![css](https://img.shields.io/badge/-css-000?&logo=css3)
