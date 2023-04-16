@@ -5,7 +5,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 <a href="https://www.instagram.com/ishre_yash/">
   <img align="left" alt="ishreyash Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="discordapp.com/users/788614400017694752">
+<a href="https://discord.com/users/788614400017694752">
   <img align="left" alt="ishreyash Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/ishre_yash">
@@ -30,6 +30,8 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![MERN](https://img.shields.io/badge/-MERN-000?&logo=Node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![t3 stack](https://img.shields.io/badge/-t3_stack-000?&logo=t3s)
+![reactnative](https://img.shields.io/badge/-React_Native-000?&logo=react)
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
