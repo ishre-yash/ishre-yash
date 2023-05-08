@@ -79,12 +79,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![XD](https://img.shields.io/badge/-XD-000?&logo=adobexd)
 ![blender](https://img.shields.io/badge/-blender-000?&logo=blender)
 
-<div align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishre-yash&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ishre-yash&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-</div>
- 
-![ishre-yash GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishre-yash&hide_border=true&theme=react-dark)
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ## Watch my contribution graph get eaten by the snake 🐍
