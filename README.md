@@ -37,6 +37,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![go](https://img.shields.io/badge/-go-000?&logo=go)
+![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
 
 ### Technologies
 ![css](https://img.shields.io/badge/-css-000?&logo=css3)
@@ -46,7 +47,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Astro](https://img.shields.io/badge/-astro-000?&logo=astro)
-![solid](https://img.shields.io/badge/-SolidJS-000?&logo=solid)
+![svelte](https://img.shields.io/badge/-svelte-000?&logo=svelte)
 &nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![bash](https://img.shields.io/badge/-bash-000?&logo=gnubash)
@@ -68,7 +69,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 &nbsp;&nbsp;
 ![reactnative](https://img.shields.io/badge/-React_Native-000?&logo=react)
-
+![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
 
 
 ### Tools
