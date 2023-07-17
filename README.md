@@ -6,13 +6,13 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
   <img align="left" alt="ishreyash Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.com/users/788614400017694752">
-  <img align="left" alt="ishreyash Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="ishreyash Discord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" />
 </a>
 <a href="https://twitter.com/ishre_yash">
-  <img align="left" alt="ishreyash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="ishreyash Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/640px-Logo_of_Twitter.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/ishre-yash/">
-  <img align="left" alt="ishreyash Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="ishreyash Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://leetcode.com/ishreyash/">
   <img align="left" alt="ishreyash Linkedin" width="22px" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" />
