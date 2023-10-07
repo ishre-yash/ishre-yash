@@ -22,7 +22,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 
 <br/>
                                                                                                                                                     
-### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
+### [PORTFOLIO](https://ishreyash.com/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
 
 ---
 ### Tech stack
