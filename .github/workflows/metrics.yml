@@ -19,36 +19,40 @@ jobs:
           # Options
           user: ishre-yash
           template: classic
-          base: header, activity, community, repositories, metadata
-          base_indepth: yes
-          config_octicon: yes
-          config_twemoji: yes
-          plugin_base_indepth: yes
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          base: header, activity, community
+          base_hireable: yes
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 0
-          plugin_starlists_only: Awesome
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 14
