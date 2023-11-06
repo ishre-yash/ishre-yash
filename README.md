@@ -76,12 +76,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
-## Watch my contribution graph get eaten by the snake 🐍
-
-<p align="center">
-   <img src="https://github.com/ishre-yash/ishre-yash/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 
 <p align="center">
     <h2 align="center">Visitors Count</h2>
