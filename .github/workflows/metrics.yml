@@ -13,15 +13,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Kolkata
 
           # Options
           user: ishre-yash
@@ -29,7 +22,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_octicon: yes
-          config_timezone: Asia/Calcutta
           config_twemoji: yes
           plugin_base_indepth: yes
           plugin_introduction: yes
@@ -57,3 +49,6 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
