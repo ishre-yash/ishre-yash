@@ -12,8 +12,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
   <img align="left" alt="ishreyash linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
 </a>
 
-<a  href="https://ko-fi.com/L3L8BAUOT"> <img align="right" height="35" src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png"/></a>
-
 <br/>
                                                                                                                                                     
 ### [PORTFOLIO](https://ishreyash.com/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
