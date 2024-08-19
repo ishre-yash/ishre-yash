@@ -21,14 +21,12 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![t3 stack](https://img.shields.io/badge/-t3_stack-000?&logo=t3s)
 ![reactnative](https://img.shields.io/badge/-React_Native-000?&logo=react)
-![flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![go](https://img.shields.io/badge/-go-000?&logo=go)
-![dart](https://img.shields.io/badge/-dart-000?&logo=dart)
 
 
 ### Technologies
@@ -62,7 +60,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 &nbsp;&nbsp;
 ![reactnative](https://img.shields.io/badge/-React_Native-000?&logo=react)
 ![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
-![flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 
 
 ### Tools
