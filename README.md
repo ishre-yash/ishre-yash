@@ -2,11 +2,9 @@
 
 Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to engage, share, ask questions and collaborate together!
 
-<a href="https://www.instagram.com/ishre_yash/">
+
+<a href="https://www.instagram.com/info.ishreyash/">
   <img align="left" alt="ishreyash instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.com/users/788614400017694752">
-  <img align="left" alt="ishreyash discord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" />
 </a>
 <a href="https://www.linkedin.com/in/ishre-yash/">
   <img align="left" alt="ishreyash linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
@@ -14,7 +12,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 
 <br/>
                                                                                                                                                     
-### [PORTFOLIO](https://ishreyash.com/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
+### [PORTFOLIO](https://ishre-yash.github.io/) | [RESUME](https://drive.google.com/file/d/1JnND3tMrKePKNxklILkUuyXfFQ1OfFt0/view) 
 
 ---
 ### Tech stack
@@ -23,12 +21,14 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![t3 stack](https://img.shields.io/badge/-t3_stack-000?&logo=t3s)
 ![reactnative](https://img.shields.io/badge/-React_Native-000?&logo=react)
+![flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![go](https://img.shields.io/badge/-go-000?&logo=go)
+![dart](https://img.shields.io/badge/-dart-000?&logo=dart)
 
 
 ### Technologies
@@ -45,7 +45,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![bash](https://img.shields.io/badge/-bash-000?&logo=gnubash)
 ![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices)
 &nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![express.js](https://img.shields.io/badge/-express.js-000?&logo=express)
@@ -62,6 +62,7 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 &nbsp;&nbsp;
 ![reactnative](https://img.shields.io/badge/-React_Native-000?&logo=react)
 ![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
+![flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 
 
 ### Tools
@@ -71,9 +72,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop)
 ![XD](https://img.shields.io/badge/-XD-000?&logo=adobexd)
 ![blender](https://img.shields.io/badge/-blender-000?&logo=blender)
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
-
 
 <p align="center">
     <h2 align="center">Visitors Count</h2>
