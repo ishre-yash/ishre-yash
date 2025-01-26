@@ -59,7 +59,6 @@ Head [over here](https://github.com/ishre-yash/ishre-yash/discussions/1) to enga
 ![redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 &nbsp;&nbsp;
 ![reactnative](https://img.shields.io/badge/-React_Native-000?&logo=react)
-![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
 
 
 ### Tools
